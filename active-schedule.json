@@ -1,11 +1,11 @@
 {
-  "id": 180,
-  "title": "تو الناس",
-  "host": "سلطان",
-  "image": "https://mbc-mood.s3.amazonaws.com/schedules/1667153387MBC-FM-Sultan.png",
-  "from_date": "9:00 PM",
-  "to_date": "11:00 PM",
-  "from_time": 1671386400,
-  "active": true,
-  "program_id": 107
+  "id": null,
+  "title": null,
+  "host": null,
+  "image": null,
+  "from_date": null,
+  "to_date": null,
+  "from_time": null,
+  "active": null,
+  "program_id": null
 }

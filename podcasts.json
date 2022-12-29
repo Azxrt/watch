@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "",
+    "name": "Popular Podcasts",
     "layout": "grid",
     "has_view_all": false,
     "podcasts": [
@@ -103,9 +103,9 @@
       },
       {
         "id": 12,
-        "name": "جسي كرم",
+        "name": "Jessy",
         "title": "أصل الحكاية",
-        "description": "تقديم جيسي كرم , 24  حلقه يروي قصص تسمية ابرز العواصم و البلدان مثل اصل تسمية الرياض, بيروت, بغداد, الكاميرون, اسبانيا .. الخ  2- 3  دقائق.",
+        "description": "تقديم جيسي كرم , 24 حلقه يروي قصص تسمية ابرز العواصم و البلدان مثل اصل تسمية الرياض, بيروت, بغداد, الكاميرون, اسبانيا .. .الخ 2- 3 دقائق",
         "hashtag": "#أصل_الحكاية",
         "thumbnail": "https://mbc-mood.s3.amazonaws.com/podcasts/1645770939jessy-podcast.jpg",
         "image": "https://mbc-mood.s3.amazonaws.com/podcasts/1595246562panorama[1].png",
@@ -113,7 +113,7 @@
         "channel_logo": "https://mbc-mood.s3.amazonaws.com/channels/16439607661635521293panorama.png",
         "last_episode": 24,
         "highlighted": false,
-        "page_name": "/radioChannel/Panorama FM/podcasts/جسي كرم/أصل الحكاية",
+        "page_name": "/radioChannel/Panorama FM/podcasts/Jessy/أصل الحكاية",
         "channel_id": 6,
         "share_link": "https://mbcradios.net/#/podcast-single/12"
       },
@@ -183,9 +183,9 @@
       },
       {
         "id": 24,
-        "name": "أماني موسى و ياسر الشمراني",
+        "name": "Amani Mousa and Yaser Alshumrany",
         "title": "Joy Awards Podcast",
-        "description": "يظهر نجوم العالم العربي دون قيود  بحوار مختلف، لا مثيل له من قبل يكشف الجانب المخفي لكل نجم,  بضيافة ألاعلاميين أماني و ياسر بودكاست من قلب الحدث ألابرز ل هذا  الموسم \"جوي أووردز\"",
+        "description": "MBC Podcasts presents: The stars of the Arab world join Amani Mousa and Yaser Alshumrany in a series of candid conversations.",
         "hashtag": "#MBCPodcasts",
         "thumbnail": "https://mbc-mood.s3.amazonaws.com/podcasts/1645770023joyawards-Cover.jpg",
         "image": "https://mbc-mood.s3.amazonaws.com/podcasts/1645770023joyawards-wide.jpg",
@@ -193,7 +193,7 @@
         "channel_logo": "https://mbc-mood.s3.amazonaws.com/channels/16439614501635428726MBCfmmob.png",
         "last_episode": 7,
         "highlighted": false,
-        "page_name": "/radioChannel/MBC FM/podcasts/أماني موسى و ياسر الشمراني/Joy Awards Podcast",
+        "page_name": "/radioChannel/MBC FM/podcasts/Amani Mousa and Yaser Alshumrany/Joy Awards Podcast",
         "channel_id": 3,
         "share_link": "https://mbcradios.net/#/podcast-single/24"
       },
@@ -249,15 +249,15 @@
   },
   {
     "id": 2,
-    "name": "",
+    "name": "Highlighted Podcasts",
     "layout": "linear",
     "has_view_all": true,
     "podcasts": [
       {
         "id": 37,
         "name": "وهيب الدخيل",
-        "title": "بودكاست  جدد حياتك",
-        "description": "البودكاست حواري مع الإعلامي وهيب الدخيل  يتم فيه تناول مواضيع طبية و صحية ورياضية وعن التغذية والجمال بحضور ضيف مختص واستقبال الاتصال من المستمعين ورسائلهم وتقديم الاستشارات المباشرة على الهواء لمدة ساعة كاملة .",
+        "title": "بودكاست جدد حياتك",
+        "description": "البودكاست حواري مع الإعلامي وهيب الدخيل يتم فيه تناول مواضيع طبية و صحية ورياضية وعن التغذية والجمال بحضور ضيف مختص واستقبال الاتصال من المستمعين ورسائلهم وتقديم الاستشارات المباشرة على الهواء لمدة ساعة كاملة .",
         "hashtag": "#MBCPodcasts",
         "thumbnail": "https://mbc-mood.s3.amazonaws.com/podcasts/1671979356JD_1000_OP.png",
         "image": "https://mbc-mood.s3.amazonaws.com/podcasts/1671979356JD_wide.png",
@@ -265,7 +265,7 @@
         "channel_logo": "https://mbc-mood.s3.amazonaws.com/channels/16439614501635428726MBCfmmob.png",
         "last_episode": 5,
         "highlighted": true,
-        "page_name": "/radioChannel/MBC FM/podcasts/وهيب الدخيل/بودكاست  جدد حياتك",
+        "page_name": "/radioChannel/MBC FM/podcasts/وهيب الدخيل/بودكاست جدد حياتك",
         "channel_id": 3,
         "share_link": "https://mbcradios.net/#/podcast-single/37"
       },
@@ -449,15 +449,15 @@
   },
   {
     "id": 3,
-    "name": "",
+    "name": "All Podcasts",
     "layout": "linear",
     "has_view_all": true,
     "podcasts": [
       {
         "id": 37,
         "name": "وهيب الدخيل",
-        "title": "بودكاست  جدد حياتك",
-        "description": "البودكاست حواري مع الإعلامي وهيب الدخيل  يتم فيه تناول مواضيع طبية و صحية ورياضية وعن التغذية والجمال بحضور ضيف مختص واستقبال الاتصال من المستمعين ورسائلهم وتقديم الاستشارات المباشرة على الهواء لمدة ساعة كاملة .",
+        "title": "بودكاست جدد حياتك",
+        "description": "البودكاست حواري مع الإعلامي وهيب الدخيل يتم فيه تناول مواضيع طبية و صحية ورياضية وعن التغذية والجمال بحضور ضيف مختص واستقبال الاتصال من المستمعين ورسائلهم وتقديم الاستشارات المباشرة على الهواء لمدة ساعة كاملة .",
         "hashtag": "#MBCPodcasts",
         "thumbnail": "https://mbc-mood.s3.amazonaws.com/podcasts/1671979356JD_1000_OP.png",
         "image": "https://mbc-mood.s3.amazonaws.com/podcasts/1671979356JD_wide.png",
@@ -465,7 +465,7 @@
         "channel_logo": "https://mbc-mood.s3.amazonaws.com/channels/16439614501635428726MBCfmmob.png",
         "last_episode": 5,
         "highlighted": true,
-        "page_name": "/radioChannel/MBC FM/podcasts/وهيب الدخيل/بودكاست  جدد حياتك",
+        "page_name": "/radioChannel/MBC FM/podcasts/وهيب الدخيل/بودكاست جدد حياتك",
         "channel_id": 3,
         "share_link": "https://mbcradios.net/#/podcast-single/37"
       },
@@ -663,9 +663,9 @@
       },
       {
         "id": 24,
-        "name": "أماني موسى و ياسر الشمراني",
+        "name": "Amani Mousa and Yaser Alshumrany",
         "title": "Joy Awards Podcast",
-        "description": "يظهر نجوم العالم العربي دون قيود  بحوار مختلف، لا مثيل له من قبل يكشف الجانب المخفي لكل نجم,  بضيافة ألاعلاميين أماني و ياسر بودكاست من قلب الحدث ألابرز ل هذا  الموسم \"جوي أووردز\"",
+        "description": "MBC Podcasts presents: The stars of the Arab world join Amani Mousa and Yaser Alshumrany in a series of candid conversations.",
         "hashtag": "#MBCPodcasts",
         "thumbnail": "https://mbc-mood.s3.amazonaws.com/podcasts/1645770023joyawards-Cover.jpg",
         "image": "https://mbc-mood.s3.amazonaws.com/podcasts/1645770023joyawards-wide.jpg",
@@ -673,7 +673,7 @@
         "channel_logo": "https://mbc-mood.s3.amazonaws.com/channels/16439614501635428726MBCfmmob.png",
         "last_episode": 7,
         "highlighted": false,
-        "page_name": "/radioChannel/MBC FM/podcasts/أماني موسى و ياسر الشمراني/Joy Awards Podcast",
+        "page_name": "/radioChannel/MBC FM/podcasts/Amani Mousa and Yaser Alshumrany/Joy Awards Podcast",
         "channel_id": 3,
         "share_link": "https://mbcradios.net/#/podcast-single/24"
       },
