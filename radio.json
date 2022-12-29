@@ -1,0 +1,207 @@
+[
+  {
+    "id": 3,
+    "name": "Radio Rudaw",
+    "logo": "https://mbc-mood.s3.amazonaws.com/channels/16439614501635428726MBCfmmob.png",
+    "web_logo": "https://mbc-mood.s3.amazonaws.com/channels/16439594051636642213MBCfm.png",
+    "url": "https://svs.itworkscdn.net/rudawlive/rudawtv_audio/chunks.m3u8",
+    "audio_url": "https://l3.itworkscdn.net/itwaudio/9006/stream",
+    "video_url": "https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8",
+    "mobile_number": "+966112684488",
+    "mobile_number_ksa": "+966112684488",
+    "mobile_number_uae": null,
+    "social_media": [
+      {
+        "url": "https://www.facebook.com/mbcfm/",
+        "type": "facebook"
+      },
+      {
+        "url": "https://www.youtube.com/user/RadioMBCFM",
+        "type": "youtube"
+      },
+      {
+        "url": "https://twitter.com/mbc_fm?lang=en",
+        "type": "twitter"
+      },
+      {
+        "url": "https://www.instagram.com/mbc_fm/",
+        "type": "instagram"
+      }
+    ],
+    "email": null,
+    "type": "video",
+    "favorite": null,
+    "meta_data": null,
+    "has_voice_note": true,
+    "has_messaging": true,
+    "has_hosts": true,
+    "has_schedule": true,
+    "has_call": true,
+    "has_news": true,
+    "default_channel": true,
+    "landing_page": "https://mbcradios.net/#/channel/3",
+    "placeholder": "https://mbc-mood.s3.amazonaws.com/placeholders/1658003844MBC-FM-Holding.jpeg",
+    "channel_banners": []
+  },
+  {
+    "id": 6,
+    "name": "Panorama FM",
+    "logo": "https://mbc-mood.s3.amazonaws.com/channels/16439607661635521293panorama.png",
+    "web_logo": "https://mbc-mood.s3.amazonaws.com/channels/1643960358panWeb.png",
+    "url": "https://shls-panoramafm-prod.shahid.net/panoramafm-prod.m3u8",
+    "audio_url": "https://panoramafm-radio.mbc.net/panoramafm-radio.m3u8",
+    "video_url": "https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8",
+    "mobile_number": "+966112689122",
+    "mobile_number_ksa": "+966112689122",
+    "mobile_number_uae": null,
+    "social_media": [
+      {
+        "url": "https://www.facebook.com/panoramafm/",
+        "type": "facebook"
+      },
+      {
+        "url": "https://twitter.com/panorama_fm?lang=en",
+        "type": "twitter"
+      },
+      {
+        "url": "https://www.youtube.com/user/RadioPanoramaFM",
+        "type": "youtube"
+      },
+      {
+        "url": "https://www.instagram.com/panorama_fm/",
+        "type": "instagram"
+      }
+    ],
+    "email": null,
+    "type": "audio",
+    "favorite": null,
+    "meta_data": "https://www.mbc.net/RadioStreamFeed/XmlFeed/Panorama?type=xml",
+    "has_voice_note": true,
+    "has_messaging": true,
+    "has_hosts": true,
+    "has_schedule": true,
+    "has_call": true,
+    "has_news": true,
+    "default_channel": false,
+    "landing_page": "https://mbcradios.net/#/channel/6",
+    "placeholder": "https://mbc-mood.s3.amazonaws.com/placeholders/1658003835Panorama-FM-Holding.jpeg",
+    "channel_banners": []
+  },
+  {
+    "id": 15,
+    "name": "WANASA",
+    "logo": "https://mbc-mood.s3.amazonaws.com/channels/1643962027wanass-mob.png",
+    "web_logo": "https://mbc-mood.s3.amazonaws.com/channels/1643962028wanass-web.png",
+    "url": "https://wanasahfm-radio.mbc.net/wanasahfm-radio.m3u8",
+    "audio_url": "https://wanasahfm-radio.mbc.net/wanasahfm-radio.m3u8",
+    "video_url": "https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8",
+    "mobile_number": null,
+    "mobile_number_ksa": null,
+    "mobile_number_uae": null,
+    "social_media": [],
+    "email": "wanasafm@mbc.net",
+    "type": "video",
+    "favorite": null,
+    "meta_data": null,
+    "has_voice_note": false,
+    "has_messaging": false,
+    "has_hosts": false,
+    "has_schedule": false,
+    "has_call": false,
+    "has_news": false,
+    "default_channel": false,
+    "landing_page": "https://mbcradios.net/#/channel/15",
+    "placeholder": "https://mbc-mood.s3.amazonaws.com/placeholders/1666377579wanasa_app.png",
+    "channel_banners": []
+  },
+  {
+    "id": 7,
+    "name": "Al Arabiya",
+    "logo": "https://mbc-mood.s3.amazonaws.com/channels/1646758103AlArabiyaFM__.png",
+    "web_logo": "https://mbc-mood.s3.amazonaws.com/channels/1646758103AlArabiyaFM_web 1.png",
+    "url": "https://fm.alarabiya.net/fm/myStream/playlist.m3u8",
+    "audio_url": "https://fm.alarabiya.net/fm/myStream/playlist.m3u8",
+    "video_url": null,
+    "mobile_number": null,
+    "mobile_number_ksa": null,
+    "mobile_number_uae": null,
+    "social_media": [
+      {
+        "url": "https://m.facebook.com/AlarabiyaFM/",
+        "type": "facebook"
+      },
+      {
+        "url": "https://www.youtube.com/channel/UCTOvu90eQGG8pmTyqDW33uQ",
+        "type": "youtube"
+      }
+    ],
+    "email": null,
+    "type": "video",
+    "favorite": null,
+    "meta_data": null,
+    "has_voice_note": false,
+    "has_messaging": false,
+    "has_hosts": false,
+    "has_schedule": false,
+    "has_call": false,
+    "has_news": false,
+    "default_channel": false,
+    "landing_page": "https://mbcradios.net/#/channel/7",
+    "placeholder": "https://mbc-mood.s3.amazonaws.com/placeholders/1646751366AlArabiyaFM__.png",
+    "channel_banners": []
+  },
+  {
+    "id": 20,
+    "name": "القرآن الكريم",
+    "logo": "https://mbc-mood.s3.amazonaws.com/channels/1643962159koran-mob.png",
+    "web_logo": "https://mbc-mood.s3.amazonaws.com/channels/1643962159koran-web.png",
+    "url": "https://quraanfm-radio.mbc.net/quraanfm-radio.m3u8",
+    "audio_url": "https://quraanfm-radio.mbc.net/quraanfm-radio.m3u8",
+    "video_url": null,
+    "mobile_number": null,
+    "mobile_number_ksa": null,
+    "mobile_number_uae": null,
+    "social_media": [],
+    "email": null,
+    "type": "audio",
+    "favorite": null,
+    "meta_data": null,
+    "has_voice_note": false,
+    "has_messaging": false,
+    "has_hosts": false,
+    "has_schedule": false,
+    "has_call": false,
+    "has_news": false,
+    "default_channel": false,
+    "landing_page": "https://mbcradios.net/#/channel/20",
+    "placeholder": "https://mbc-mood.s3.amazonaws.com/placeholders/16439615771635428795koran.png",
+    "channel_banners": []
+  },
+  {
+    "id": 21,
+    "name": "مراسي",
+    "logo": "https://mbc-mood.s3.amazonaws.com/channels/1645534852marasi_white.png",
+    "web_logo": "https://mbc-mood.s3.amazonaws.com/channels/1645534852marasi_t.png",
+    "url": "https://ahlalqaseedfm-radio.mbc.net/ahlalqaseedfm-radio.m3u8",
+    "audio_url": "https://ahlalqaseedfm-radio.mbc.net/ahlalqaseedfm-radio.m3u8",
+    "video_url": null,
+    "mobile_number": null,
+    "mobile_number_ksa": null,
+    "mobile_number_uae": null,
+    "social_media": [],
+    "email": null,
+    "type": "audio",
+    "favorite": null,
+    "meta_data": null,
+    "has_voice_note": false,
+    "has_messaging": true,
+    "has_hosts": false,
+    "has_schedule": false,
+    "has_call": false,
+    "has_news": false,
+    "default_channel": false,
+    "landing_page": "https://mbcradios.net/#/channel/21",
+    "placeholder": "https://mbc-mood.s3.amazonaws.com/placeholders/1645534902Marasi-Big.png",
+    "channel_banners": []
+  }
+]
